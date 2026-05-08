@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="HeatRun icon">
+  <rect width="512" height="512" rx="96" fill="#0b0f12"/>
+  <path d="M78 342c68-118 121-167 176-147 50 18 61 85 110 96 24 5 49-4 77-28" fill="none" stroke="#26313a" stroke-width="42" stroke-linecap="round"/>
+  <path d="M78 342c68-118 121-167 176-147 50 18 61 85 110 96 24 5 49-4 77-28" fill="none" stroke="#34d399" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="255" cy="196" r="58" fill="#34d399" opacity=".18"/>
+  <circle cx="365" cy="291" r="74" fill="#ff6b5f" opacity=".16"/>
+  <circle cx="82" cy="342" r="24" fill="#f7b955"/>
+  <circle cx="254" cy="195" r="24" fill="#38bdf8"/>
+  <circle cx="440" cy="263" r="24" fill="#34d399"/>
+  <path d="M163 382V130h48v97h91v-97h48v252h-48V270h-91v112h-48z" fill="#eef5f1"/>
+</svg>
